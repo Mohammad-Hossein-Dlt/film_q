@@ -2,7 +2,7 @@ import 'package:film_q/constants/colors.dart';
 import 'package:film_q/constants/iconsax_icons.dart';
 import 'package:film_q/screens/login/new_password_screen.dart';
 import 'package:film_q/screens/main_screen.dart';
-import 'package:film_q/widgrts/persian_number.dart';
+import 'package:film_q/widgets/persian_number.dart';
 import 'package:flutter/material.dart';
 import 'dart:async';
 import 'package:pinput/pinput.dart';

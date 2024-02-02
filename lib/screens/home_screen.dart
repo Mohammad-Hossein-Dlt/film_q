@@ -2,8 +2,8 @@ import 'package:film_q/constants/colors.dart';
 import 'package:film_q/constants/iconsax_icons.dart';
 import 'package:film_q/screens/genres_screen.dart';
 import 'package:film_q/screens/search_screen.dart';
-import 'package:film_q/widgrts/banner_list.dart';
-import 'package:film_q/widgrts/simple_movie_item.dart';
+import 'package:film_q/widgets/banner_list.dart';
+import 'package:film_q/widgets/simple_movie_item.dart';
 import 'package:flutter/material.dart';
 
 class HomeScreen extends StatefulWidget {

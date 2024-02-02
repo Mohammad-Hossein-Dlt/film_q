@@ -1,7 +1,7 @@
 import 'package:film_q/constants/colors.dart';
 import 'package:film_q/constants/iconsax_icons.dart';
-import 'package:film_q/widgrts/persian_number.dart';
-import 'package:film_q/widgrts/summary_text.dart';
+import 'package:film_q/widgets/persian_number.dart';
+import 'package:film_q/widgets/summary_text.dart';
 import 'package:flutter/material.dart';
 
 class TermsAndConditionsScreen extends StatefulWidget {

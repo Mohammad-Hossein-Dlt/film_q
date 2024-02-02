@@ -1,6 +1,6 @@
 import 'package:film_q/constants/colors.dart';
 import 'package:film_q/constants/iconsax_icons.dart';
-import 'package:film_q/widgrts/trailer_item.dart';
+import 'package:film_q/widgets/trailer_item.dart';
 import 'package:flutter/material.dart';
 
 class TrailersListScreen extends StatefulWidget {

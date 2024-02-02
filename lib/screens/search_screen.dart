@@ -1,7 +1,7 @@
 import 'package:film_q/constants/colors.dart';
 import 'package:film_q/constants/iconsax_icons.dart';
-import 'package:film_q/widgrts/full_details_movie_item.dart';
-import 'package:film_q/widgrts/simple_movie_item.dart';
+import 'package:film_q/widgets/full_details_movie_item.dart';
+import 'package:film_q/widgets/simple_movie_item.dart';
 import 'package:flutter/material.dart';
 
 class SearchScreen extends StatefulWidget {

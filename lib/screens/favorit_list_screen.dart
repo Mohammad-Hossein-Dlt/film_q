@@ -1,6 +1,6 @@
 import 'package:film_q/constants/colors.dart';
 import 'package:film_q/constants/iconsax_icons.dart';
-import 'package:film_q/widgrts/playlist_item.dart';
+import 'package:film_q/widgets/playlist_item.dart';
 import 'package:flutter/material.dart';
 
 class FavoritListScreen extends StatefulWidget {

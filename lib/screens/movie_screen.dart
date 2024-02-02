@@ -2,8 +2,8 @@ import 'dart:ui';
 
 import 'package:film_q/constants/colors.dart';
 import 'package:film_q/constants/iconsax_icons.dart';
-import 'package:film_q/widgrts/episode_item.dart';
-import 'package:film_q/widgrts/summary_text.dart';
+import 'package:film_q/widgets/episode_item.dart';
+import 'package:film_q/widgets/summary_text.dart';
 import 'package:flutter/material.dart';
 
 class MovieScreen extends StatefulWidget {

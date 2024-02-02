@@ -1,7 +1,7 @@
 import 'package:film_q/constants/colors.dart';
 import 'package:film_q/constants/iconsax_icons.dart';
 import 'package:film_q/screens/subscription/payment_method_screen.dart';
-import 'package:film_q/widgrts/persian_number.dart';
+import 'package:film_q/widgets/persian_number.dart';
 import 'package:flutter/material.dart';
 
 class SubscriptionScreen extends StatefulWidget {
